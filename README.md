@@ -16,14 +16,14 @@ Go to Judge0-rapidApi and signup if needed</li>
 Create a .env file with given keys and values [These values can be taken from above link]</li>
 </ul>
 
-### Things that are to be implemented in it
-- [ ] Boiler Code for all languages.
-- [ ] Facility to save code snippets with some keywords and accessing it
-- [ ] Saving the code in system.
-- [ ] Save current code in localstorage to avoid loss of code on reload.
-
 ```env
   REACT_APP_RAPID_API_HOST = X-RapidAPI-Host
   REACT_APP_RAPID_API_KEY = X-RapidAPI-Key
   REACT_APP_RAPID_API_URL = X-RapidAPI-Host/submissions
 ```
+
+### Things that are to be implemented in it
+- [ ] Boiler Code for all languages.
+- [ ] Facility to save code snippets with some keywords and accessing it
+- [ ] Saving the code in system.
+- [ ] Save current code in localstorage to avoid loss of code on reload.
